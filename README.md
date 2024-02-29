@@ -46,9 +46,9 @@
 
 <div>
   <strong>Contate-me:</strong><br>
-  <a href="https://www.linkedin.com/in/higorvl/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><img></a>
-  <a href="mailto:higor-lopo@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://higor-vl.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
-  <a href="https://www.instagram.com/higor.vital.335/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/higorvl/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><img></a>
+  <a target="_blank" href="mailto:higor-lopo@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://higor-vl.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+  <a target="_blank" href="https://www.instagram.com/higor.vital.335/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
