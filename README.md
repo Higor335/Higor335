@@ -38,7 +38,7 @@
 <hr>
 
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor335&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor335&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <hr>
