@@ -2,6 +2,12 @@
 
 <p>Recém formado em Sistemas de Informação, aficionado por desenvolvimento web e aspirante a desenvolvedor de jogos 👾</p>
 
+<p align="center">
+  <a href="https://higor335.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/%20Acesse%20Meu%20Portfólio%20↗-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <hr>
 
 <div>
@@ -37,8 +43,8 @@
 
 <hr>
 
-<div>
-  <img height="200em" src="https://github-readme-stats-higor.vercel.app/api/top-langs/?username=higor335&layout=compact&layout=compact&layout=compact&langs_count=6&theme=dracula"/>
+<div align="center">
+  <img style="margin-left:50%" height="250em" src="https://github-readme-stats-higor.vercel.app/api/top-langs/?username=higor335&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <hr>
