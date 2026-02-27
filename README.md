@@ -1,12 +1,20 @@
 ## Olá, Tudo Bem? Eu sou o Higor Vital Lopo 👋
 
-<p>Recém formado em Sistemas de Informação, aficionado por desenvolvimento web e aspirante a desenvolvedor de jogos 👾</p>
+<p>Graduado em <strong>Sistemas de Informação</strong> e <strong>pós-graduando</strong> em <strong>Desenvolvimento Web Full Stack</strong>, com foco em aplicações modernas e soluções escaláveis.</p>
 
-<p align="center">
+<hr>
+
+<h3><strong>🚀 Projetos em Produção</strong></h3>
+
+<ul>
   <a href="https://higor335.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/%20Acesse%20Meu%20Portfólio%20↗-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfólio%20Profissional-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+  <br><br>
+  <a href="https://corumbainforma.com.br">
+    <img src="https://img.shields.io/badge/%20Corumbá%20Informa-Portal%20de%20Notícias-0A192F?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>
+</ul>
 
 <hr>
 
@@ -14,6 +22,7 @@
   <img width="18em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <strong>Linguagens de Programação: </strong><br><br>
 
+<ul>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -21,30 +30,34 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br><br>
+</ul>
 </div>
 
 <div>
  ✏️<strong>Marcação e Estilização: </strong><br><br>
-
+<ul>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/><br><br>
+</ul>
 </div>
 
 <div>
   📝<strong>Ferramentas: </strong><br><br>
 
+<ul>
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/><br><br>
+</ul>
 </div>
 
 <hr>
 
 <div align="center">
-  <img style="margin-left:50%" height="250em" src="https://github-readme-stats-higor.vercel.app/api/top-langs/?username=higor335&layout=compact&langs_count=6&theme=dracula"/>
+  <img style="margin-left:50%" height="200em" src="https://github-readme-stats-higor.vercel.app/api/top-langs/?username=higor335&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <hr>
